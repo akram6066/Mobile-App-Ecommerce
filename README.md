@@ -33,4 +33,4 @@ This project is an E-commerce mobile application built with Flutter for the fron
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/your-username/flutter-nodejs-ecommerce.git
+git clone https://github.com/akram6066/Mobile-App-Ecommerce.git
